@@ -1,9 +1,8 @@
 <?php
 $host = 'localhost';
 $db   = 'u_240268411_db';
-$user = 'root';
-// $pass = 'hlkVcqVG9KxFNbN'; // Use your MySQL password here
-$pass = ''; 
+$user = 'u_240268411';
+$pass = 'hlkVcqVG9KxFNbN'; 
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
